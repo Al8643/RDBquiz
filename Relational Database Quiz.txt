@@ -1,0 +1,89 @@
+Q1: What is the function of a primary key?
+
+The primary key is used to grant access to a table.
+The primary key is used to identify any rows in the table that contain NULL values.
+The primary key uniquely identifies each row in a table.
+The primary key enables you to add data to columns.
+
+Correct. The primary key uniquely identifies each row in a table.
+
+Q2: True or False: Data Manipulation Language statements like INSERT, SELECT, UPDATE, and DELETE are used to read and modify data.
+
+True
+False
+
+Correct. True
+
+Q3: Data Definition Language (or DDL) statements are used to define, change, or delete database objects such as tables. Which of the following statements are all DDL statements? 
+
+SELECT, INSERT, UPDATE
+CREATE, ALTER, DROP
+INSERT and UPDATE
+SELECT and DELETE
+
+Correct. The CREATE, ALTER, and DROP 
+
+Question 4: Which of the following queries will change the data type of an existing column (phone) to the varchar data type?
+
+ALTER TABLE author ALTER COLUMN phone SET DATA TYPE VARCHAR(20);
+ALTER TABLE author ALTER COLUMN phone SET TYPE VARCHAR(20);
+ALTER TABLE author ALTER COLUMN phone DATA TYPE = VARCHAR(20);
+ALTER COLUMN phone SET DATA TYPE VARCHAR(20);
+
+Correct. ALTER TABLE author ALTER COLUMN phone SET DATA TYPE VARCHAR(20);
+
+Question 5: The five basic SQL commands are:
+
+SELECT, COPY, PASTE, INSERT, ALTER
+None of the above
+CREATE, SELECT, INSERT, UPDATE, DELETE
+CREATE, INSERT, RETRIEVE, MODIFY, DELETE
+
+Correct. CREATE, INSERT, SELECT, UPDATE, and DELETE are used to read and modify data.
+
+Q6: The primary key of a relational table uniquely identifies each _______ in a table.
+
+row
+column
+relation
+attribute
+
+Correct. The primary key uniquely identifies each row in a table.
+
+Q7: Which of the following statements about a database is/are correct?
+
+A database is a logically coherent collection of data with some inherent meaning
+Data can only be added and queried from a database, but not modified.
+Only SQL can be used to query data in a database.
+All of the above
+
+Correct. A database is a repository or logically coherent collection of data with some inherent meaning
+
+Q8: Attributes of an entity become ________ in a table.
+
+rows
+columns
+constraints
+keys
+
+Correct. Attributes of an entity become columns in a table.
+
+Q9: What are the basic categories of the SQL language based on functionality?
+
+Data Definition Language
+Data Manipulation Language
+Both of the above
+None of the above
+
+Correct. Both. (Data Definition Language (DDL) and Data Manipulation Language (DML))
+
+Q10: The CREATE TABLE statement is a....
+
+DML statement
+DDL statement
+Both of the above
+
+Correct
+Correct. it is a DDL statement.
+
+
